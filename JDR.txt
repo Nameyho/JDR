@@ -1,0 +1,3932 @@
+Abondance de munitions à pour description  Les munitions non magiques se régénèrent à chaque round.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Abri à pour description Crée un abri pour dix créatures.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Abri de toile à pour description Crée un abri confortable en toile d'araignée.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Prêtre 2 
+
+Magicien 2 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Absorption d'énergie à pour description La cible gagne 2d4 niveaux négatifs.
+
+---------------------------------------------------------------  
+
+Prêtre 9 
+
+---------------------------------------------------------------
+
+Absorption de toxine à pour description Le personnage est temporairement immunisé contre les maladies et les toxines, il en absorbe une et la transmet à autrui.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Accompagnement exquis à pour description L'instrument maintient la représentation bardique au profit du personnage.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Accorder la grâce à pour description Le sujet gagne un bonus aux jets de sauvegarde égal au modificateur de Charisme du personnage.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+---------------------------------------------------------------
+
+Accorder la grâce du champion à pour description La cible gagne des pouvoirs de paladin pendant 1 round/niveau.
+
+---------------------------------------------------------------  
+
+Paladin 4 
+
+---------------------------------------------------------------
+
+Accélération du poison à pour description Accélère le délai d'action du poison ciblé.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 2 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Action conditionnée à pour description La cible obéit au personnage qui lui interdit de faire quelque chose.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Action interdite supérieure à pour description Comme  action interdite mais 1 créature/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Adaptation planaire à pour description Résiste aux effets néfastes d'un plan.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Adaptation planaire de groupe à pour description Comme 
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Adoration à pour description Le personnage gagne un bonus aux tests de Diplomatie et de combat de spectacle.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+Barde 1 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Affûtage à pour description Double la zone de critique possible d'une arme.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Agonie à pour description La douleur encourage un extérieur à obéir au personnage.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Agrandissement à pour description Double la taille d'un humanoïde.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Agrandissement de groupe à pour description Agrandit plusieurs créatures.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Aide à pour description +1 aux jets d'attaque et de sauvegarde contre la terreur, 1d8 pv temporaires, +1/niveau (max. +10
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Aiguillon persuasif à pour description La cible subit 1d6 points de dégâts non létaux, le personnage gagne un bonus d'Intimidation.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Aire de l'aigle à pour description Convoque 1 aigle géant/3 niveaux.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Alarme à pour description Protège une zone pendant 2 heures/niveau.
+
+---------------------------------------------------------------  
+
+Druide 6 
+
+---------------------------------------------------------------
+
+Alarme d'invisibilité à pour description La cible souffre en permanence de confusion.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Alignement indétectable à pour description Masque l'alignement pendant 24 heures.
+
+---------------------------------------------------------------  
+
+Paladin 2 
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Allegro à pour description Rapidité pendant la représentation bardique.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Allié compatissant à pour description La cible est obligée d'aider un allié blessé.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Allié d'outreplan à pour description Échange de services avec une créature extraplanaire à 6 DV.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Allié involontaire à pour description Le sujet est considéré comme l'allié du personnage pendant 1 round.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+---------------------------------------------------------------
+
+Allié majeur d'outreplan à pour description Comme allié d'outreplan, mais jusqu'à 12 DV.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Allié spirituel à pour description Crée un allié divin pour aider le personnage.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Allié suprême d'outreplan à pour description Comme allié d'outreplan, mais jusqu'à 18 DV.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+---------------------------------------------------------------
+
+Altération vocale à pour description Déguise la voix.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Ami de la forêt à pour description Les plantes forestières se montrent serviables envers le personnage et ses alliés au lieu d’entraver leurs déplacements.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+---------------------------------------------------------------
+
+Amplification d'élixir à pour description Augmente la puissance ou la durée des effets d'une potion ou d'un élixir.
+
+---------------------------------------------------------------  
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Amélioration des pièges à pour description enforce un piège ciblé.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Magicien 3 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Analyse d'enchantement à pour description Révèle les propriétés magiques.
+
+---------------------------------------------------------------  
+
+Barde 6 
+
+---------------------------------------------------------------
+
+Anathème à pour description Inflige un malus de -2 aux jets d'attaque, aux jets de sauvegarde et aux tests.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Anatomie morte-vivante I à pour description Prend la forme et les pouvoirs de morts-vivants P ou M.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Anatomie morte-vivante II à pour description Prend la forme et les pouvoirs de morts-vivants TP ou G.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Anatomie morte-vivante III à pour description Prend la forme et les pouvoirs de morts-vivants de taille Min ou TG.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Anatomie morte-vivante IV à pour description Comme forme de mort-vivant III mais avec plus de pouvoirs.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Ancre d'ombre à pour description Ancre l'ombre de la cible au sol, ce qui empêche tout déplacement.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Ancre dimensionnelle à pour description Empêche tout déplacement extradimensionnel.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Animal anthropomorphe à pour description Un animal devient bipède.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Animation d'objets à pour description Les objets attaquent les adversaires du PJ.
+
+---------------------------------------------------------------  
+
+Druide 7 
+
+---------------------------------------------------------------
+
+Animation des morts à pour description Crée squelettes et zombis morts-vivants.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Animation des morts mineure à pour description Crée un squelette ou un zombi.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Animation des plantes à pour description Une ou plusieurs plantes s'animent et attaquent les adversaires du PJ.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Animation suspendue à pour description Met la cible en état de stase.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+---------------------------------------------------------------
+
+Annihilation de mort-vivant à pour description Détruit 1d4 DV de morts-vivants/niveau (max. 20d4
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Annulation d'enchantement à pour description Libère la cible des enchantements, des altérations, des malédictions et de la pétrification.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Paladin 4 
+
+---------------------------------------------------------------
+
+Anticipation du danger à pour description La cible gagne un bonus à un test d'initiative.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Antidétection à pour description Protège contre la scrutation et les divinations.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Antidétection (partagé) à pour description Comme antidétection mais la durée d’effet se divise entre les créatures touchées.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Apaisement de créatures artificielles à pour description Réduit les chances qu'une créature artificielle devienne berserk.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Apaisement des animaux à pour description Calme (2d4 + niveau
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Apaisement des émotions à pour description Calme des créatures.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Appel cacophonique à pour description Rend la cible nauséeuse.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Appel cacophonique de groupe à pour description Rend de multiples cibles nauséeuses.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+---------------------------------------------------------------
+
+Appel d'un animal à pour description Fait venir un animal au personnage.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Appel de créature artificielle à pour description Appelle un golem auprès du personnage.
+
+---------------------------------------------------------------  
+
+Barde 5 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Appel de la foudre à pour description Appelle la foudre (3d6 points de dégâts par éclair
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+---------------------------------------------------------------
+
+Appel de la tempête à pour description Comme appel de la foudre, mais 5d6 points de dégâts par éclair.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+---------------------------------------------------------------
+
+Appel des pierres à pour description 2d6 points de dégâts à toutes les créatures de la zone.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Appel du chevalier à pour description Oblige la cible à s'avancer vers le personnage et à le combattre.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Appel du néant à pour description Plonge les cibles adjacentes dans une prison de néant.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Appel du tueur planaire à pour description Les alliés bénéficient d’avantages contre les extérieurs d’un alignement au choix du personnage.
+
+---------------------------------------------------------------  
+
+Paladin 4 
+
+---------------------------------------------------------------
+
+Appel purifié à pour description L'eidolon invoqué est entièrement guéri.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+---------------------------------------------------------------
+
+Apprentissage par le sang à pour description Apprend un sort grâce au sang de la cible.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Arbres de siège à pour description Transforme des arbres G en catapultes végétales de même taille.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Arbres de siège supérieur à pour description Comme arbres de siège mais transforme aussi des arbres TG ou Gig en catapultes végétales de même taille.
+
+---------------------------------------------------------------  
+
+Druide 7 
+
+---------------------------------------------------------------
+
+Arc de gravité à pour description Les flèches causent des dégâts comme si elles étaient d'une catégorie de taille supérieure.
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Arc électrique à pour description Les cibles situées sur une ligne prennent 1d6 électricité/niveau.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Arc-bâton à pour description Un arc court peut servir de gourdin et un arc long de bâton.
+
+---------------------------------------------------------------  
+
+Paladin 1 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Arme alignée à pour description Une arme devient bonne, chaotique, loyale ou mauvaise.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Arme alignée commune à pour description Comme 
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Arme boomerang à pour description Donne la propriété  boomerang à une arme.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Barde 2 
+
+Magicien 2 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Arme boomerang (partagé) à pour description Comme arme boomerang mais la durée d’effet se divise entre les créatures touchées.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Barde 3 
+
+Magicien 3 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Arme d'ombre à pour description Crée une arme de maître quasi réelle.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Arme de glace bénie à pour description Une arme de corps à corps détruit les morts-vivants.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Arme improvisée raffinée à pour description Transforme une arme improvisée en une arme courante ou de guerre de maître.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Arme infaillible à pour description Bonus de +2 qui augmente de +1 tous les quatre niveaux de lanceur de sorts aux jets d’attaque pour confirmer un coup critique.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Arme magique à pour description Confère un bonus de +1 à une arme.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Arme magique suprême à pour description Confère un bonus de +1/4 niveaux à une arme (max. +5
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Paladin 3 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Arme merveilleuse à pour description L'arme gagne +2 aux jets de dégâts.
+
+---------------------------------------------------------------  
+
+Paladin 2 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Arme polyvalente à pour description L'arme ignore certaines RD.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Barde 2 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Arme protectrice à pour description L’arme que le personnage utilise comme focalisateur du sort le protège et lui permet de lancer des sorts sans provoquer d’attaque d’opportunité.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Arme spirituelle à pour description Arme magique attaquant d'elle-même.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Armure de mage à pour description Confère un bonus d'armure de +4.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Armure impie à pour description Comme 
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Armure instantanée à pour description Convoque une armure qui remplace temporairement l’équipement actuel du personnage.
+
+---------------------------------------------------------------  
+
+Paladin 2 
+
+---------------------------------------------------------------
+
+Armure sainte à pour description +1 CA/quatre niveaux (max +5
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Armure sans effort à pour description L’armure du personnage ne réduit plus sa vitesse de déplacement.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Paladin 2 
+
+---------------------------------------------------------------
+
+Arrêt du temps à pour description Seul le PJ peut agir pendant 1d4+1 rounds.
+
+---------------------------------------------------------------  
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Aspect animal à pour description Le personnage bénéficie des avantages d’un animal.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Aspect animal supérieur à pour description Comme aspect animal mais donne droit à deux avantages animaux.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 4 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Aspect de fée hantée à pour description Le personnage s’entoure d’illusions inquiétantes.
+
+---------------------------------------------------------------  
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Aspect de l'ours à pour description +2 à la CA et aux jets de manœuvre de combat.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+---------------------------------------------------------------
+
+Aspect du cerf à pour description +2 à la CA contre les attaques d'opportunités et augmentation de vitesse.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Aspect du faucon à pour description Accorde un bonus aux tests de Perception et aux attaques à distance.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Aspect du loup à pour description +4 For et Dex, +2 bonus aux attaques de croc-en-jambe.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Aspect terrifiant à pour description Le personnage se transforme en une version G terrifiante de lui-même et émet une aura qui secoue ou effraye les créatures.
+
+---------------------------------------------------------------  
+
+Druide 8 
+
+Prêtre 8 
+
+Magicien 8 
+
+Rôdeur 4 
+
+---------------------------------------------------------------
+
+Aspersion acide à pour description Orbe infligeant 1d3 points de dégâts d'acide.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Assassin imaginaire à pour description Illusion terrifiante tuant la cible ou lui infligeant 3d6 points de dégâts.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Assemblage par télékinésie à pour description F
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Assimilation retardée à pour description L'extrait ne fait pas effet tant que le personnage ne l'a pas décidé.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Assistance divine à pour description +1 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Assistant de chargement à pour description Charge un tir dans une arme, à chaque round.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Atavisme à pour description Les animaux gagnent l'archétype simple de créature évoluée.
+
+---------------------------------------------------------------  
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Atavisme de groupe à pour description 1 animal/niveau gagne l'archétype évolué.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+---------------------------------------------------------------
+
+Attirance à pour description Objet ou lieu attire certaines créatures.
+
+---------------------------------------------------------------  
+
+Druide 8 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Augure à pour description Révèle si une action aura de bonnes conséquences ou non.
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+---------------------------------------------------------------
+
+Aura d'archon à pour description L'aura pénalise l'attaque et la CA des ennemis.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Paladin 3 
+
+---------------------------------------------------------------
+
+Aura de bravoure supérieure à pour description Augmente la puissance de l'aura de bravoure du paladin.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Aura de funeste destin à pour description Les créatures situées dans l'aura sont secouées.
+
+---------------------------------------------------------------  
+
+Paladin 2 
+
+---------------------------------------------------------------
+
+Aura magique à pour description Crée une fausse aura magique.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Aura maudite à pour description +4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Bien.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Aura sacrée à pour description +4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Mal.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+---------------------------------------------------------------
+
+Aura élémentaire à pour description Crée une aura d'énergie autour du personnage.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Avancée assurée à pour description Le personnage peut avancer lentement et sûrement tout en lançant des sorts tant qu’il n’accélère pas, qu’il n’attaque pas et qu’il ne lance pas de sorts offensifs.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Aversion à pour description Objet ou lieu repousse certaines créatures.
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+---------------------------------------------------------------
+
+Bafouiller à pour description La cible ne peut plus parler de façon intelligible.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Bagou à pour description Confère +30 aux tests de Bluff ; résiste aux divinations censées détecter les mensonges.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Baie nourricière à pour description 2d4 baies rendant chacune 1 pv (max. 8 pv/24 heures
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+---------------------------------------------------------------
+
+Baiser de la goule à pour description Paralyse la cible et lui fait dégager une odeur répugnante qui la rend nauséeuse.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+---------------------------------------------------------------
+
+Baiser du vampire à pour description 1d6 points de dégâts/2 niveaux, récupérés sous forme de pv par le PJ.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Balle dédiée à pour description Les munitions sont plus précises si elles visent un certain type de créature.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Balle dédiée supérieure à pour description Comme balle dédiée mais inflige 2 points de dégâts par niveau de lanceur de sorts.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+Rôdeur 4 
+
+---------------------------------------------------------------
+
+Bandes de protection à pour description Des bandes de force protègent contre l'écrasement.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Bannir les faux-semblants à pour description Dissipe une illusion touchée ou le changement de forme d'une créature.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Bannissement à pour description Bannit 2 DV/niveau de créatures extraplanaires.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+---------------------------------------------------------------
+
+Barde d'ombre à pour description Clone d'ombre qui commence une représentation bardique.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Barrière de lames à pour description Lames infligeant 1d6 points de dégâts/niveau.
+
+---------------------------------------------------------------  
+
+Barde 5 
+
+---------------------------------------------------------------
+
+Barrière étourdissante à pour description Entoure la cible de couches de force.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Paladin 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Berceuse à pour description Rend les sujets somnolents ; -5 aux tests Perception, -2 aux jets de Volonté contre sommeil.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Biographie du sang à pour description Apprend des informations sur une créature grâce à son sang.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Blasphème à pour description Tue, paralyse, affaiblit ou hébète les cibles non-Mauvaises.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Blessure critique à pour description Inflige 4d8 pts de dégâts, +1/niveau (max. +20
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+---------------------------------------------------------------
+
+Blessure critique de groupe à pour description Inflige 4d8 points de dégâts +1/niveau à une créature/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Blessure grave à pour description Inflige 3d8 pts de dégâts, +1/niveau (max. +15
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Blessure importante de groupe à pour description Inflige 3d8 points de dégâts +1/niveau à une créature/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Blessure légère à pour description Inflige 1d8 points de dégâts, +1/niveau (max. +5
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+---------------------------------------------------------------
+
+Blessure légère de groupe à pour description Inflige 1d8 points de dégâts +1/niveau à une créature/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Blessure modérée à pour description Inflige 2d8 points de dégâts, +1/niveau (max. +10
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+---------------------------------------------------------------
+
+Blessure modérée de groupe à pour description Inflige 2d8 points de dégâts +1/niveau à une créature/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Bois de fer à pour description Rend le bois aussi dur que le fer.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Bombe boursouflée à pour description Tue une créature et transforme son cadavre en un piège explosif.
+
+---------------------------------------------------------------  
+
+Druide 6 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Bosquet reposant à pour description Crée des arbres et une petite source.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Bouche magique à pour description Délivre un message quand on la déclenche.
+
+---------------------------------------------------------------  
+
+Rôdeur 4 
+
+---------------------------------------------------------------
+
+Bouclier à pour description Disque invisible conférant +4 à la CA et protégeant des projectiles magiques.
+
+---------------------------------------------------------------  
+
+Paladin 2 
+
+---------------------------------------------------------------
+
+Bouclier d'onde à pour description L’eau amortit une attaque ou un effet de feu.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Bouclier de défense à pour description La cible a 25% de chances de traiter les coups critiques et les attaques sournoises comme des attaques normales.
+
+---------------------------------------------------------------  
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Bouclier de défense suprême à pour description Brûle les créatures attaquant le PJ en protégeant ce dernier contre le feu ou le froid.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Paladin 3 
+
+---------------------------------------------------------------
+
+Bouclier de foudre à pour description  Un bouclier de force protège le personnage jusqu’à ce qu’il le renvoie dans une explosion de foudre.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Bouclier de la Loi à pour description +4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Chaos.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Bouclier de la foi à pour description Aura conférant un bonus de parade de +2 (ou plus
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Bouclier de pierre à pour description La pierre offre un bonus de +4 à la CA et un bonus de +2 à ses jets de Réflexes.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+---------------------------------------------------------------
+
+Bouclier entropique à pour description Les attaques à distance ont 20 % de chances de rater le PJ.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Bouclier involontaire à pour description La cible partage les blessures reçues par le lanceur de sorts.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Barde 5 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Bouclier pare-balles à pour description Le personnage gagne un bonus de parade de +4 à la CA contre les armes à feu.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Bouclier sacré à pour description Accorde la protection du bouclier du personnage à un tiers.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Boule de feu à pour description 1d6 points de dégâts de feu/niveau, 6 m de rayon.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Boule de feu à retardement à pour description 1d6 points de dégâts de feu/niveau ; l'explosion peut être retardée un max. de 5 rounds.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Boule de foudre à pour description Petites sphères de foudre volantes qui infligent chacune 3d6 points de dégâts d'électricité.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Boule de goudron à pour description Un goudron brûlant blesse la cible et réduit sa Dextérité.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Boulette à pour description La cible reçoit un malus de -20 à son prochain jet d'attaque ou test.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Bourrasque à pour description Emporte ou renverse les créatures de taille modeste.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+---------------------------------------------------------------
+
+Brandon à pour description Les alliés gagnent 
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Brise à pour description Vous créez un vent léger qui souffle sur la cible, dans la direction de votre choix.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Brise-magie à pour description La cible perd un sort préparé ou un emplacement de sort de niveau 5.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Brise-magie mineur à pour description La cible perd un sort préparé ou un emplacement de sort de niveau 3.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Brise-magie suprême à pour description La cible perd un sort préparé ou un emplacement de sort de niveau 7.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Briser les liens à pour description 1d6 points de dégâts/niveau (max 5d6
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Broderie à pour description Les objets en tissu s'ornent de broderies.
+
+---------------------------------------------------------------  
+
+Barde 4 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Brouillard dense à pour description Réduit la visibilité et gêne les déplacements.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+---------------------------------------------------------------
+
+Bruit pénible à pour description Le bruit rend 1d4 créatures fiévreuses.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Brume acide à pour description Brouillard infligeant des dégâts d'acide.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Brume de dissimulation à pour description Le PJ est entouré de brouillard.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Brume de vitriol à pour description Comme bouclier de feu mais dégâts d'acide.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Brume hantée à pour description Les créatures sont secouées et subissent des affaiblissements de Sagesse.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Brume mentale à pour description Malus de -10 aux tests de Sagesse et jets de Volonté.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Brume mortelle à pour description Tue les créatures de 3 DV ou moins ; celles de 4-6 DV meurent en cas de jet de sauvegarde raté ; celles de 6 DV ou plus subissent un affaiblissement temporaire de Con.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Brume sanglante à pour description La brume cause un affaiblissement de Sagesse et déclenche la rage.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Bulle de vie à pour description Protège les créatures contre l'environnement.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Prêtre 5 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Bulle d’air à pour description Crée une petite poche d’air autour de la tête du personnage ou autour d’un objet.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+Magicien 1 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Bâton serpent à pour description Transforme un bâton ou un autre objet de bois en serpents qui combattent pour le personnage.
+
+---------------------------------------------------------------  
+
+Druide 5 
+
+---------------------------------------------------------------
+
+Bâton sylvanien à pour description Transforme le bâton du PJ en sylvanien.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+---------------------------------------------------------------
+
+Bâton à sort à pour description Permet de stocker un sort dans un bâton.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Bénédiction à pour description Les alliés gagnent +1 à l'attaque et aux jets de sauvegarde contre la terreur.
+
+---------------------------------------------------------------  
+
+Druide 7 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Bénédiction d'arme à pour description Arme plus efficace contre les adversaires d'alignement Mauvais.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Bénédiction de ferveur à pour description Accorde des avantages au choix des alliés.
+
+---------------------------------------------------------------  
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Bénédiction de l'eau à pour description Crée de l'eau bénite.
+
+---------------------------------------------------------------  
+
+Paladin 1 
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Bénédiction de la salamandre à pour description La cible gagne guérison accélérée 2, résistance au feu 10 et +2 au DMD.
+
+---------------------------------------------------------------  
+
+Druide 5 
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Bénédiction de la taupe à pour description 1 allié/niveau gagne vision dans le noir et +2 Discrétion.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Paladin 3 
+
+---------------------------------------------------------------
+
+Bénédiction de vie et de courage à pour description +2 aux jets de sauvegarde contre la peur et la mort.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Paladin 2 
+
+---------------------------------------------------------------
+
+Bénédiction karmique à pour description La cible traite une compétence de son choix comme une compétence de classe.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Cacher le camp à pour description Cache toute trace de camp du personnage.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Cacophonie à pour description 1d8 points de dégâts de son, étourdissement possible.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Cacophonie distrayante à pour description Le bruit complique les incantations.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Cadeau empoisonné à pour description La cible souffre des effets d'un poison présent chez le personnage.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Cage de force à pour description Cube de force emprisonnant ce qui se trouve à l'intérieur.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Calme illusoire à pour description On dirait que le personnage est immobile alors qu’il agit.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Canalisation de vie à pour description Permet à une créature sensible aux énergies positives d'en tirer temporairement profit.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Canon arcanique à pour description Le focalisateur du personnage devient un canon magique qui tire de son propre chef.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Capture d'âme à pour description Retient l'âme d'un défunt pour empêcher sa résurrection.
+
+---------------------------------------------------------------  
+
+Prêtre 9 
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Caresse de la mer à pour description Vitesse de nage de 9 mètres (6 
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Caresse vaseuse à pour description Le contact infeste la cible de vase verte.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Caresse élémentaire à pour description Gagne une attaque de contact d’énergie.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Carreau de peur à pour description Blesse et hébète peut-être les créatures Bonnes.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Cassé à pour description Donne à un objet la condition brisé.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Cauchemar à pour description Envoie des visions causant fatigue et perte de 1d10 pv.
+
+---------------------------------------------------------------  
+
+Barde 5 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Cercle de clarté à pour description Une émanation gêne les illusions et la discrétion.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Cercle de mort à pour description Tue 1d4 DV de créatures/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Cercle de téléportation à pour description Amène qui entre dans le cercle à une destination programmée.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Cercle magique contre la Loi à pour description Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Cercle magique contre le Bien à pour description Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Cercle magique contre le Chaos à pour description Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Paladin 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Cercle magique contre le Mal à pour description Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Paladin 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Chagrin écrasant à pour description La cible attristée ne peut pas faire d'action et n'a plus son bonus de Dex.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Champ de force à pour description Nul ne peut approcher du PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Chance de l’artisan à pour description Le sujet gagne +5 au prochain test d’Artisanat.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Changement de forme à pour description Le PJ peut se transformer à l'envi (1 fois/round
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Changement de plan à pour description Permet de changer de plan (huit sujets max.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Chant assourdissant à pour description Explosion de chants qui inflige 3d10 points de dégâts et rend les cible sourdes.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Chant de discorde à pour description Force les cibles à s'entretuer.
+
+---------------------------------------------------------------  
+
+Barde 5 
+
+---------------------------------------------------------------
+
+Chant de footing à pour description Invoque un carrosse quasi-réel tiré par quatre chevaux.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Barde 2 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Charge de fourmi à pour description Triple la capacité de charge d’une créature.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+Magicien 1 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Charge de fourmi (partagé) à pour description Comme charge de fourmi mais la durée d’effet se divise entre les créatures touchées.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Prêtre 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Charge télékinétique à pour description Propulse un allié dans les airs.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Charmant cadeau à pour description Le sujet accepte immédiatement un objet offert et l’utilise.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Charme-animal à pour description Un animal devient l'ami du PJ.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+---------------------------------------------------------------
+
+Charme-monstre à pour description Le monstre croit être l'allié du PJ.
+
+---------------------------------------------------------------  
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Charme-monstre de groupe à pour description Comme charme-monstre, mais sur 9 m de rayon.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Charme-personne à pour description La cible devient l'ami du PJ.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Chaîne de perdition à pour description Crée une chaîne de force flottante.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Chevaucher la foudre à pour description Transforme en électricité.
+
+---------------------------------------------------------------  
+
+Druide 6 
+
+---------------------------------------------------------------
+
+Chevaucher les vagues à pour description La cible peut respirer sous l'eau et nager.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Prêtre 4 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Cheveux étrangleurs à pour description Les cheveux s'animent et sont capables d'agripper quelqu'un.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Chien de chasse à pour description Augmente l’odorat et donne au lanceur de sorts le pouvoir spécial odorat.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Chien de garde à pour description Chien spectral capable de combattre.
+
+---------------------------------------------------------------  
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Choc à pour description Une étincelle d’électricité vient frapper la cible.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Chute de température à pour description La zone se couvre d’un froid glacial.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Barde 3 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Châtiment sacré à pour description Blesse et aveugle les créatures Mauvaises (1d8 pts de dégâts/2 niveaux
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Chêne animé à pour description Transforme un chêne en sylvanien.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Chœur hanté à pour description Des esprits infligent des souffrances aux auditeurs.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Clairaudience/clairvoyance à pour description Permet d'entendre ou de voir de loin pendant 1 minute/niveau.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+---------------------------------------------------------------
+
+Clignotement à pour description Le PJ apparaît et disparaît pendant 1 round/niveau.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Clone à pour description Double s'éveillant à la mort de l'original.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Coffre secret à pour description Coffre caché dans le plan Éthéré.
+
+---------------------------------------------------------------  
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Collet à pour description Crée un piège magique tout simple.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+---------------------------------------------------------------
+
+Colonne de feu à pour description Feu divin (1d6 points de dégâts/niveau
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Colère à pour description Bonus de moral aux jets d’attaque et de dégâts et avantages divers contre une créature.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Colère partagée à pour description Comme 
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Combattant pris au dépourvu à pour description -4 aux tests d'initiative et de Réflexes de la cible.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Communication avec les animaux à pour description Permet de communiquer avec les animaux.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Barde 3 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Communication avec les apparitions à pour description Une apparition répond à une question par tranche de 2 niveaux.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Communication avec les morts à pour description Un cadavre répond à 1 question/2 niveaux.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Communication avec les plantes à pour description Permet de communiquer avec les plantes et les créatures végétales.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Communication à distance à pour description Transmet un court message n'importe où.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Communion à pour description Le dieu du PJ répond par oui ou non à une question/niveau.
+
+---------------------------------------------------------------  
+
+Rôdeur 4 
+
+---------------------------------------------------------------
+
+Communion avec la nature à pour description Permet de connaître les environs (1,5 km/niveau
+
+---------------------------------------------------------------  
+
+Druide 5 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Compréhension des langages à pour description Le PJ comprend tous les langages écrits ou parlés.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Conducteur fantôme à pour description Convoque un fantôme pour conduire un véhicule.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Confession à pour description La créature répond honnêtement aux questions ou subit 1d6 point de dégâts /deux niveaux (Max. 5d6
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Confusion à pour description Le sujet se comporte bizarrement pendant 1 round/niv.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+---------------------------------------------------------------
+
+Confusion mineure à pour description Une créature est confuse pendant 1 round.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Connaissances du Borgne à pour description  Le personnage gagne un bonus de +4 aux tests de Survie et peut suivre une piste alors qu’il se déplace au maximum de sa vitesse.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+Barde 1 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Connaître son ennemi à pour description Bonus de +10 à un test de Connaissance des monstres.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Paladin 1 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Consécration à pour description Affaiblit les morts-vivants au sein d'une zone.
+
+---------------------------------------------------------------  
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Contact absorbant à pour description Le lanceur absorbe un objet pendant 1 jour/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Contact avec les plans à pour description Permet d'interroger une entité extraplanaire.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Contact calcificateur à pour description Contact qui ralentit la cible, 1d4 points d’affaiblissement temporaire de Dextérité.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Contact corrosif à pour description Attaque de contact qui inflige 1d4 acide/niveau.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Contact défigurant à pour description La cible est défigurée.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Contact gelé à pour description La cible reçoit des dégâts de froid et elle est chancelante.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Contact glacial à pour description 1 attaque/niveau ; 1d6 points de dégâts, perte de 1 point de Force possible.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Contact mutagène à pour description Le personnage transmet une version affaiblie de son mutagène à autrui.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Contagion à pour description Infecte la cible.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Prêtre 3 
+
+---------------------------------------------------------------
+
+Contagion supérieure à pour description Infecte une cible avec une maladie magique.
+
+---------------------------------------------------------------  
+
+Druide 5 
+
+Prêtre 5 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Contrat à pour description Force un élémentaire ou un Extérieur de 6 DV ou moins à accomplir une tâche pour le PJ.
+
+---------------------------------------------------------------  
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Contrat intermédiaire à pour description Comme contrat, mais jusqu'à 12 DV.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Contrat suprême à pour description Comme contrat, mais jusqu'à 18 DV.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Contrôle de créature artificielle à pour description Prend le contrôle d'une créature artificielle.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Contrôle de l'eau à pour description Abaisse ou élève le niveau de l'eau.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Prêtre 4 
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Contrôle des créatures convoquées à pour description Le personnage dirige un monstre convoqué comme si c'était lui qui l'avait appelé.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Contrôle des morts-vivants à pour description Les morts-vivants n'attaquent pas le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Contrôle des plantes à pour description Permet de contrôler une ou plusieurs créatures végétales.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Contrôle des vents à pour description Modifie la direction et la force du vent.
+
+---------------------------------------------------------------  
+
+Druide 8 
+
+---------------------------------------------------------------
+
+Contrôle du climat à pour description Modifie le climat local.
+
+---------------------------------------------------------------  
+
+Druide 7 
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Contrôle mineur des morts-vivants à pour description Les morts-vivants obéissent au PJ.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Convocation d'alliés mineur à pour description Convoque 1d3 animaux TP.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels I à pour description Appelle une créature luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels II à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels III à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels IV à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels IX à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Rôdeur 4 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels V à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels VI à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 5 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels VII à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 6 
+
+---------------------------------------------------------------
+
+Convocation d'alliés naturels VIII à pour description Appelle une ou plusieurs créatures luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Druide 7 
+
+---------------------------------------------------------------
+
+Convocation d'instrument à pour description Convoque un instrument de musique au choix.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Convocation d'ombres à pour description Reproduit les invocations de 3e niveau ou moins ; 20 % sont réelles.
+
+---------------------------------------------------------------  
+
+Barde 4 
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Convocation d'ombres suprême à pour description Comme convocation d'ombres, mais jusqu'au 6e niveau ; 60 % sont réelles.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Convocation de froghémoth à pour description Convoque un froghémoth.
+
+---------------------------------------------------------------  
+
+Druide 8 
+
+---------------------------------------------------------------
+
+Convocation de monstres I à pour description Appelle une créature extraplanaire luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Barde 1 
+
+---------------------------------------------------------------
+
+Convocation de monstres II à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+Barde 2 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Convocation de monstres III à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Barde 3 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Convocation de monstres IV à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Barde 4 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Convocation de monstres IX à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 9 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Convocation de monstres V à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Barde 5 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Convocation de monstres VI à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+Barde 6 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Convocation de monstres VII à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Convocation de monstres VIII à pour description Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Convocation de monstres mineure à pour description Convoque 1d3 animaux TP.
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+Prêtre 1 
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Convocation de pudding noir à pour description Convoque un pudding noir.
+
+---------------------------------------------------------------  
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Convocation de ver vénérable à pour description Convoque un vert pourpre géant.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Convocation d’eidolon à pour description Convoque instantanément l’eidolon du personnage pendant 1 minute/niveau.
+
+---------------------------------------------------------------  
+
+Druide 9 
+
+---------------------------------------------------------------
+
+Coquille anti-créatures intangibles à pour description Les créatures intangibles ne s’approchent pas à moins de 3 mètres du personnage.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Coquille antiplantes à pour description Empêche les plantes animées d'approcher.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Coquille antivie à pour description Tient les créatures vivantes à distance (3 m
+
+---------------------------------------------------------------  
+
+Druide 6 
+
+---------------------------------------------------------------
+
+Cor de poursuite à pour description Crée trois notes entendues à des kilomètres.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Corde animée à pour description Une corde bouge sur ordre du PJ.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Corde d'échardes à pour description La représentation inflige 2d6 points de dégâts perforants.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Corde enchantée à pour description Huit créatures peuvent se cacher dans un espace extradimensionnel.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+---------------------------------------------------------------
+
+Corps de fer à pour description Le corps du PJ se transforme en fer vivant.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Corps de glace à pour description Le corps du personnage devient de la glace vivante.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Corps enflammé à pour description Le lanceur de sorts se transforme en flamme vivante.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Corps élémentaire I à pour description Le lanceur de sorts se transforme en élémentaire de taille P.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Corps élémentaire II à pour description Le lanceur de sorts se transforme en élémentaire de taille M.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Corps élémentaire III à pour description Le lanceur de sorts se transforme en élémentaire de taille G.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Corps élémentaire IV à pour description Le lanceur de sorts se transforme en élémentaire de taille TG.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Corps épineux à pour description Ceux qui attaquent le personnage subissent 1d6+1 points de dégâts/niveau.
+
+---------------------------------------------------------------  
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Corrosion à pour description Une tache acide blesse un adversaire.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Couleurs dansantes à pour description Assomme, aveugle et/ou étourdit 1d6 créatures.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Coup au but à pour description Confère un bonus de +20 au prochain jet d'attaque.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Coup retentissant à pour description Attaque de corps à corps qui inflige 1d6 points de dégâts sonores supplémentaires.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Coup tonitruant à pour description Les munitions de l’arme ciblée rendent les adversaires sourds.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 2 
+
+Paladin 4 
+
+---------------------------------------------------------------
+
+Coupe de poussière à pour description Déshydrate une créature.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+---------------------------------------------------------------
+
+Couronne de lames à pour description Quatre lames de mithral tournoient autour du personnage, attaquent les créatures voisines et le protègent contre les attaques d’opportunité quand il lance un sort.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Courroux de l'ordre à pour description Blesse et étourdit les créatures Chaotiques (1d8 pts de dégâts/2 niveaux
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Coursier fantôme à pour description Crée un cheval magique pour 1 heure/niveau.
+
+---------------------------------------------------------------  
+
+Barde 3 
+
+---------------------------------------------------------------
+
+Coursier fantôme (partagé) à pour description Comme coursier fantôme mais la durée d’effet se divise entre les créatures touchées.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Barde 4 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Crachat venimeux à pour description Crache du venin de vipère noire aveuglant.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Prêtre 4 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Creusement à pour description La cible gagne une vitesse de creusement de 4,50 m.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Cri à pour description Assourdit les victimes et leur inflige 5d6 points de dégâts de son.
+
+---------------------------------------------------------------  
+
+Barde 4 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Cri ki à pour description La cible reçoit 1d6 dégâts sonores/niveau et elle est étourdie.
+
+---------------------------------------------------------------  
+
+Barde 5 
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Cri perçant à pour description Inflige des dégâts sonores et hébète la cible.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Cri strident à pour description Les ennemis provoquent des attaques d’opportunité.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Cri suprême à pour description Cri dévastateur infligeant 10d6 points de dégâts de son ; étourdit les créatures, abîme les objets.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Crochet de force à pour description Un crochet de force attire le personnage vers la cible.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Croissance animale à pour description Double la taille de 1 animal/2 niveaux.
+
+---------------------------------------------------------------  
+
+Druide 5 
+
+Rôdeur 4 
+
+---------------------------------------------------------------
+
+Croissance d'épines à pour description 1d4 points de dégâts, ralentissement possible.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Croissance végétale à pour description Fait pousser la végétation, améliore son rendement.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Crâne ricanant à pour description Un crâne agit comme une bouche magique, les auditeurs sont secoués.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Création d'eau à pour description Crée huit litres d'eau pure/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Création de carte au trésor à pour description Crée une carte au trésor à partir du cadavre d’une créature.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Barde 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Création de demi-plan à pour description Comme création de demi-plan mineure mais plus grand et avec des caractéristiques planaires.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Création de demi-plan mineure à pour description Création d'un demi-plan.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+Magicien 7 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Création de demi-plan supérieure à pour description Comme  création de demi-plan mais plus grand et avec plus de caractéristiques planaires.
+
+---------------------------------------------------------------  
+
+Prêtre 9 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Création de fosse à pour description Crée une fosse extradimensionnelle.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Création de mort-vivant à pour description Goule, blême, momie ou mohrg.
+
+---------------------------------------------------------------  
+
+Prêtre 8 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Création de mort-vivant dominant à pour description Ombre, âme en peine, spectre ou dévoreur.
+
+---------------------------------------------------------------  
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Création de nourriture et d'eau à pour description Nourrit trois humains ou un cheval/niveau.
+
+---------------------------------------------------------------  
+
+Prêtre 6 
+
+---------------------------------------------------------------
+
+Création majeure à pour description Comme création mineure, plus pierre et métal.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Création mineure à pour description Crée un objet en tissu ou en bois.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Créature artificielle incassable à pour description Augmente la résistance ou la RD d'une créature artificielle.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Cyclone à pour description Inflige des dégâts et peut soulever les petites créatures.
+
+---------------------------------------------------------------  
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Cécité/surdité à pour description Rend la cible aveugle ou sourde.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Barde 2 
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Cône de froid à pour description 1d6 points de dégâts de froid/niveau.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Dague de stalactite à pour description Dague de maître en glace qui inflige 1 point de dégâts de froid.
+
+---------------------------------------------------------------  
+
+Druide 8 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Dangereux final à pour description Inflige 2d8 points de dégâts à des cibles multiples.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Danse des cent coupures à pour description Bonus de +1/3 niveaux au combat.
+
+---------------------------------------------------------------  
+
+Barde 6 
+
+---------------------------------------------------------------
+
+Danse des mille coupures à pour description Comme  danse des cent coupures mais bénéficie de rapidité.
+
+---------------------------------------------------------------  
+
+Barde 4 
+
+---------------------------------------------------------------
+
+Danse irrésistible à pour description Force le sujet à danser.
+
+---------------------------------------------------------------  
+
+Barde 6 
+
+---------------------------------------------------------------
+
+De la soie à l'acier à pour description Change une écharpe en bouclier ou en fouet.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Destruction à pour description Tue la cible et détruit son corps.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Destruction de mort-vivant à pour description 1d6 points de dégâts à un mort-vivant.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Diagnostic à pour description Détecte et identifie les maladies.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+Paladin 1 
+
+Magicien 7 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Discours captivant à pour description Captive à 30 m (+ 3 m/niveau
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Disjonction à pour description Dissipe la magie et les propriétés des objets magiques.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Disparition à pour description Comme 
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Disque flottant à pour description Disque horizontal de 90 cm de diamètre portant 50 kg/niveau.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Dissimulation d'objet à pour description Dissimule un objet à la scrutation.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Dissimulation suprême à pour description Rend le sujet invisible, même à la scrutation.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Dissimuler la magie à pour description Cache la présence d'un sort à la 
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Dissimuler la magie (partagé) à pour description Comme dissimuler la magie mais la durée d’effet se divise entre les créatures touchées.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Dissipation de la fièvre à pour description Supprime les conditions malade, nauséeux et fiévreux.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Dissipation de la magie à pour description Annule sorts et effets magiques.
+
+---------------------------------------------------------------  
+
+Druide 4 
+
+Prêtre 3 
+
+Paladin 3 
+
+---------------------------------------------------------------
+
+Dissipation suprême à pour description Comme dissipation de la magie, mais sur cibles multiples.
+
+---------------------------------------------------------------  
+
+Druide 6 
+
+Prêtre 6 
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Distorsion du bois à pour description Tord le bois (manche d'arme, planche, porte, etc.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Distorsion spatiale à pour description Les attaques de la créature ciblée atterrissent dans une case aléatoire au lieu de celle qu’elle avait prévue.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Divination à pour description Donne des conseils en rapport avec une action envisagée.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Doigt de mort à pour description Inflige 10 points de dégâts/niveau à une cible.
+
+---------------------------------------------------------------  
+
+Druide 8 
+
+Prêtre 4 
+
+---------------------------------------------------------------
+
+Domination à pour description Permet de contrôler un humanoïde par télépathie.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Domination d'animal à pour description L'animal obéit aux ordres télépathiques du PJ.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Domination universelle à pour description Comme domination, mais sur n'importe qui.
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+---------------------------------------------------------------
+
+Don des langues à pour description Permet de parler toutes les langues.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Don des langues (partagé) à pour description Comme don des langues mais la durée d’effet se divise entre les créatures touchées.
+
+---------------------------------------------------------------  
+
+Prêtre 5 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Double illusoire à pour description Rend le PJ invisible et crée son double illusoire.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Dragon d'artifice à pour description Crée un dragon en feu d'artifice/niveau.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Dysfonctionnement à pour description Les créatures artificielles se comportent étrangement pendant 1 round/niveau.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Débilité à pour description L'Intelligence et le Charisme de la cible tombent à 1.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Déblocage à pour description Ouvre les portes fermées, même par magie.
+
+---------------------------------------------------------------  
+
+Magicien 5 
+
+---------------------------------------------------------------
+
+Décharge défensive à pour description L'électricité blesse les adversaires.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Décharge électrique à pour description 1d6 points de dégâts d'électricité/niveau (max. 5d6
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Décomposition de cadavre à pour description Transforme un cadavre en squelette bien propre.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Prêtre 1 
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Décret à pour description Tue, paralyse, ralentit ou assourdit les cibles non-Loyales.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Dédale à pour description Enferme la cible dans un labyrinthe extradimensionnel.
+
+---------------------------------------------------------------  
+
+Prêtre 7 
+
+---------------------------------------------------------------
+
+Défense magique à pour description Plusieurs effets magiques protègent une zone.
+
+---------------------------------------------------------------  
+
+Magicien 8 
+
+---------------------------------------------------------------
+
+Défi du héros à pour description Permet au personnage de se servir de l’imposition des mains quand il tombe inconscient.
+
+---------------------------------------------------------------  
+
+Magicien 6 
+
+---------------------------------------------------------------
+
+Défier le mal à pour description La créature est fivreuse si elle refuse de combattre le personnage.
+
+---------------------------------------------------------------  
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Défoliant à pour description Détruit les plantes et supprime le camouflage offert.
+
+---------------------------------------------------------------  
+
+Druide 2 
+
+Magicien 2 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Déformation douloureuse à pour description La cible subit un affaiblissement de Dex et de Con.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Déguisement à pour description Modifie l'apparence du PJ.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Déguisement fantomatique à pour description La cible ressemble à son propre fantôme.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Déguiser autrui à pour description Comme déguisement mais affecte un tiers.
+
+---------------------------------------------------------------  
+
+Barde 2 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Délivrance à pour description Libère la victime d'un emprisonnement.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Délivrance de la paralysie à pour description Délivre de la paralysie, d'immobilisation et de lenteur.
+
+---------------------------------------------------------------  
+
+Paladin 2 
+
+Magicien 9 
+
+---------------------------------------------------------------
+
+Délivrance des malédictions à pour description Libère des malédictions.
+
+---------------------------------------------------------------  
+
+Prêtre 3 
+
+Paladin 3 
+
+---------------------------------------------------------------
+
+Démarche aérienne à pour description Ignore les pénalités de mouvement en terrain difficile.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Barde 1 
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Démarche aérienne de groupe à pour description Comme 
+
+---------------------------------------------------------------  
+
+Druide 3 
+
+Barde 3 
+
+Rôdeur 1 
+
+---------------------------------------------------------------
+
+Démarche du caméléon à pour description Bonus de + 4 aux tests de Discrétion et obtient un camouflage.
+
+---------------------------------------------------------------  
+
+Rôdeur 3 
+
+---------------------------------------------------------------
+
+Dénonciation à pour description Fait empirer l’attitude des gens envers une créature cible.
+
+---------------------------------------------------------------  
+
+Barde 4 
+
+Rôdeur 2 
+
+---------------------------------------------------------------
+
+Dépense à pour description Gaspille les utilisations limitées des pouvoirs magiques de la cible.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Déplacement à pour description Chaque attaque a 50 % de chances de rater la cible.
+
+---------------------------------------------------------------  
+
+Magicien 7 
+
+---------------------------------------------------------------
+
+Désespoir foudroyant à pour description Les sujets subissent -2 aux jets d'attaque, aux jets de dégâts, aux jets de sauvegarde et aux tests.
+
+---------------------------------------------------------------  
+
+Magicien 3 
+
+---------------------------------------------------------------
+
+Désintégration à pour description Fait disparaître un objet ou une créature.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Désir anormal à pour description La cible est obligée d'en embrasser ou d'en caresser une autre.
+
+---------------------------------------------------------------  
+
+Barde 1 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Détection de l'invisibilité à pour description Révèle créatures et objets invisibles.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Détection de la Loi à pour description Révèle l'aura des créatures, sorts ou objets.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Détection de la faune ou de la flore à pour description Détecte les espèces de plantes et d'animaux.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+---------------------------------------------------------------
+
+Détection de la magie à pour description Détecte sorts et objets magiques à 18 m à la ronde.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Détection de la scrutation à pour description Détecte l'espionnage magique.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Détection de pensées à pour description Permet d'écouter les pensées superficielles.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Détection des aberrations à pour description Révèle la présence des aberrations.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Détection des collets et des fosses à pour description Détecte pièges naturels et primitifs.
+
+---------------------------------------------------------------  
+
+Druide 1 
+
+---------------------------------------------------------------
+
+Détection des morts-vivants à pour description Révèle les morts-vivants à 18 m ou moins.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Détection des passages secrets à pour description Révèle les passages secrets à 18 m ou moins.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Détection des pièges à pour description Le PJ repère les pièges comme un roublard.
+
+---------------------------------------------------------------  
+
+Magicien 1 
+
+---------------------------------------------------------------
+
+Détection du Bien à pour description Révèle l'aura des créatures, sorts ou objets.
+
+---------------------------------------------------------------  
+
+Prêtre 2 
+
+---------------------------------------------------------------
+
+Détection du Chaos à pour description Révèle l'aura des créatures, sorts ou objets.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Détection du Mal à pour description Révèle l'aura des créatures, sorts ou objets.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+---------------------------------------------------------------
+
+Détection du mensonge à pour description Révèle les mensonges délibérés.
+
+---------------------------------------------------------------  
+
+Prêtre 1 
+
+Paladin 3 
+
+---------------------------------------------------------------
+
+Détection du poison à pour description Détecte le poison chez une créature ou un petit objet.
+
+---------------------------------------------------------------  
+
+Prêtre 4 
+
+Paladin 1 
+
+---------------------------------------------------------------
+
+Détection faussée à pour description Abuse les divinations lancées sur la cible (créature ou objet
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+
+Détonation à pour description Inflige 1d8 points de dégâts d’énergie/niveau à toutes les céatures qui se trouvent à moins de 4,50 m.
+
+---------------------------------------------------------------  
+
+Magicien 2 
+
+---------------------------------------------------------------
+
+Détonation discordante à pour description 3d6 points de dégâts sonores dans un rayon de 3 m ou un cône de 9 m ; peut également bousculer les créatures.
+
+---------------------------------------------------------------  
+
+Magicien 4 
+
+---------------------------------------------------------------
+
+Détremper à pour description Une averse soudaine trempe la créature ou l’objet ciblé.
+
+---------------------------------------------------------------  
+
+Barde 4 
+
+---------------------------------------------------------------
+
+Déviation à pour description Les attaques qui ratent le personnage sont redirigées vers leur source.
+
+---------------------------------------------------------------  
+
+---------------------------------------------------------------
+

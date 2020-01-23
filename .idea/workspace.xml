@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1906188d-3780-41fb-a691-336671aa09d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WnwLfLaHB2NCFvVZx5MKoIOArc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="main" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Unnamed">
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JDR" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Java Scratch" nameIsGenerated="true">
+      <module name="JDR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Java Scratch.Unnamed" />
+      <item itemvalue="JUnit.Unnamed" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1906188d-3780-41fb-a691-336671aa09d2" name="Default Changelist" comment="" />
+      <created>1579798611655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579798611655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="179" key="#Unnamed" timestamp="1579799021215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="179" key="#Unnamed/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579799021215" />
+    <state x="529" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579799014198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579799014198" />
+    <state x="804" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579798972988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="804" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579798972988" />
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579798691678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579798691678" />
+    <state x="855" y="299" key="FileChooserDialogImpl" timestamp="1579798747005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="855" y="299" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579798747005" />
+    <state x="618" y="274" width="672" height="677" key="run.anything.popup" timestamp="1579799030894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="274" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579799030894" />
+  </component>
+</project>
